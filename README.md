@@ -84,4 +84,4 @@ The Excel dashboard includes:
 
 The Excel dashboard successfully transforms raw sales data into a meaningful, interactive analytical tool. It provides deep visibility into sales and profit trends, helping stakeholders identify the most profitable regions, products, and shipment behaviors. The dynamic slicers and visual summaries make the dashboard easy to use and highly valuable for decision-making across sales, logistics, and product teams.
 
-* Dashboard 
+# Dashboard 
