@@ -71,8 +71,6 @@ The Excel dashboard includes:
 * **Interactive Slicers** for real-time filtering
 * A clean, structured layout for user-friendly analysis
 
-* Dashboard <a href= "https://github.com/Munishankar570/Data-Analyst-Dashboard/blob/main/Excel%20Dashboard.pdf">
-
 ## **6. Project Insights**
 
 * **Regular Air** is the most commonly used shipment mode.
@@ -85,3 +83,5 @@ The Excel dashboard includes:
 ## **7. Final Conclusion**
 
 The Excel dashboard successfully transforms raw sales data into a meaningful, interactive analytical tool. It provides deep visibility into sales and profit trends, helping stakeholders identify the most profitable regions, products, and shipment behaviors. The dynamic slicers and visual summaries make the dashboard easy to use and highly valuable for decision-making across sales, logistics, and product teams.
+
+* Dashboard 
